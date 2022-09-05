@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26d37008-c396-4113-8079-ab0b56b47fda" name="Changes" comment="3 cases for login">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/driver/MyDriveri.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/driver/MyDriveri.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,6 +102,14 @@
       <option name="presentableId" value="Default" />
       <updated>1662050035242</updated>
     </task>
+    <task id="LOCAL-00001" summary="3 cases for login">
+      <created>1662391538080</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662391538080</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

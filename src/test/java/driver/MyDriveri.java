@@ -17,7 +17,7 @@ public class MyDriveri {
 //                driver = new ChromeDriver();
                 ChromeOptions chromeOptions = new ChromeOptions();
                 chromeOptions.addArguments("window-size=1400,800");
-//                chromeOptions.addArguments("headless");
+                chromeOptions.addArguments("headless");
                 driver= new ChromeDriver(chromeOptions);
 
 
